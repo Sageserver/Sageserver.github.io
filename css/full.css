@@ -11,7 +11,7 @@ body {
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
 .full {
-    background: url('minecraft_wallpaper_by_stevie10-d659xhq.jpg') no-repeat center center fixed;
+    background: url('https://sageserver.github.io/minecraft_wallpaper_by_stevie10-d659xhq.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
